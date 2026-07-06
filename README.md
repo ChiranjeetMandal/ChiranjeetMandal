@@ -1,124 +1,120 @@
-<h1 align="center">Hi 👋, I'm Chiranjeet Mandal</h1>
+<div align="center">
 
-<h3 align="center">
-💻 Data Engineer | ☁️ Cloud Enthusiast | 🚀 Software Developer | 📊 Big Data Learner
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Chiranjeet%20Mandal&fontSize=50&fontColor=00F5FF&animation=fadeIn&fontAlignY=35&desc=Sr%20Data%20Engineer%20%7C%20Software%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=20"/>
+
+</div>
+
+<div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Data+Engineering+Enthusiast;Python+%7C+SQL+%7C+PySpark;Snowflake+%7C+Databricks+%7C+Azure;Always+Learning+Something+New+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1200&color=00F5FF&center=true&vCenter=true&width=1000&lines=%3E+Initializing...;%3E+Welcome+to+my+GitHub;%3E+Senior+Data+Engineer;%3E+Python+%7C+PySpark+%7C+Snowflake+%7C+Databricks;%3E+Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
----
-
-## 🚀 About Me
-
-🎓 Passionate about **Data Engineering, Cloud Computing, and Software Development**
-
-🌱 Currently learning
-
-- Apache Spark (PySpark)
-- Snowflake
-- Databricks
-- Azure Data Factory
-- Python
-- SQL
-- Data Warehousing
-
-💡 Interests
-
-- Big Data
-- Cloud Technologies
-- ETL Pipelines
-- Data Analytics
-- Open Source
-
-⚡ Fun Fact
-
-> *"Turning data into meaningful insights, one pipeline at a time."*
+</div>
 
 ---
 
-## 🌐 Connect With Me
+# 💫 About Me
+
+```python
+class Chiranjeet:
+
+    role = "Senior Data Engineer"
+
+    location = "India"
+
+    languages = [
+        "Python",
+        "SQL",
+        "Java"
+    ]
+
+    technologies = [
+        "PySpark",
+        "Snowflake",
+        "Azure",
+        "Databricks",
+        "Git",
+        "Docker"
+    ]
+
+    interests = [
+        "Big Data",
+        "Cloud",
+        "Machine Learning",
+        "Backend Development"
+    ]
+
+    motto = "Build. Learn. Improve. Repeat."
+```
+
+---
+
+# 🌐 Connect
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/chiranjeet-mandal/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="mailto:chiranjeet.mandal14@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
-<a href="mailto:chiranjeet.mandal14@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/in/chiranjeet-mandal/">
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 <a href="https://leetcode.com/u/chiranjeet70/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/chiranjeetmanda1">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+<img src="https://img.shields.io/badge/HackerRank-111827?style=for-the-badge&logo=hackerrank&logoColor=00EA64"/>
 </a>
 
 <a href="https://www.hackerearth.com/@chiranjeet6/">
-<img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white"/>
+<img src="https://img.shields.io/badge/HackerEarth-111827?style=for-the-badge&logo=hackerearth&logoColor=00C8FF"/>
 </a>
 
 <a href="https://dev.to/chiranjeetmandal">
-<img src="https://img.shields.io/badge/DEV.to-000000?style=for-the-badge&logo=devdotto&logoColor=white"/>
+<img src="https://img.shields.io/badge/DEV.to-111827?style=for-the-badge&logo=devdotto&logoColor=white"/>
 </a>
 
 <a href="https://x.com/Chiranjeet680">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 💻 Tech Stack
+# ⚡ Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql,git,github,vscode,linux,docker,azure"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,git,github,vscode,linux,docker,azure&theme=dark"/>
 
-</p>
-
----
-
-# 🏅 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/u/chiranjeet70/">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/chiranjeetmanda1">
-<img src="https://img.shields.io/badge/HackerRank-5⭐-00EA64?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="https://www.hackerearth.com/@chiranjeet6/">
-<img src="https://img.shields.io/badge/HackerEarth-Coding-blue?style=for-the-badge&logo=hackerearth"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-# 🛠️ Data Engineering Stack
+# ☁️ Data Engineering
 
-<p align="center">
+<div align="center">
 
 <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-</p>
+</div>
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -130,21 +126,20 @@
 
 ---
 
-# 💻 LeetCode Statistics
+# 💻 Languages
 
 <p align="center">
-
-<img src="https://leetcard.jacoblin.cool/chiranjeet70?theme=dark&font=Poppins&ext=contest"/>
-
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiranjeetMandal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 ---
 
-# 💻 Most Used Languages
+# 🧠 LeetCode
 
 <p align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiranjeetMandal&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://leetcard.jacoblin.cool/chiranjeet70?theme=dark&font=JetBrains+Mono&ext=contest"/>
 
 </p>
 
@@ -154,7 +149,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChiranjeetMandal&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChiranjeetMandal&theme=react-dark&hide_border=true"/>
 
 </p>
 
@@ -164,36 +159,51 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ChiranjeetMandal&theme=algolia&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ChiranjeetMandal&theme=algolia&no-frame=true&column=4"/>
 
 </p>
 
 ---
 
-# 👀 Profile Views
+# 🚀 Featured Projects
 
+| Project | Description |
+|----------|-------------|
+| 🔥 ETL Framework | ETL pipeline built with PySpark and Snowflake |
+| ☁ Azure Data Pipeline | Data ingestion using Azure Data Factory |
+| 📊 Sales Analytics | KPI Dashboard with SQL & Python |
+| ⚡ Data Validation Framework | Automated data quality checks |
+
+---
+
+# 🐍 Contribution Snake
+
+> Configure the GitHub Action once, then use:
+
+```html
 <p align="center">
+
+<img src="https://raw.githubusercontent.com/ChiranjeetMandal/ChiranjeetMandal/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+```
+
+---
+
+<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=ChiranjeetMandal&style=for-the-badge&color=blue"/>
 
-</p>
+</div>
 
 ---
 
-## 💡 Quote
+<div align="center">
 
-<p align="center">
+## 💙
 
-> **"Data is the new oil, but only when it's refined into insights."**
+### *"Turning raw data into reliable insights."*
 
-</p>
+⭐ **If you like my work, consider giving a star to my repositories!**
 
----
-
-<h3 align="center">
-
-⭐ Thanks for visiting my profile! ⭐
-
-**Code • Learn • Build • Repeat 🚀**
-
-</h3>
+</div>
