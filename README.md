@@ -1,16 +1,13 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,40:161B22,70:238636,100:2EA043&text=Chiranjeet%20Mandal&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Senior%20Data%20Engineer%20|%20Software%20Developer%20|%20AI%20Enthusiast&descAlignY=56&descSize=20"/>
 
 </div>
 
-<div align="center">
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1200&color=2EA043&center=true&vCenter=true&width=900&lines=Hello%2C+I'm+Chiranjeet+Mandal;Senior+Data+Engineer;Python+%7C+PySpark+%7C+Snowflake;Azure+%7C+Databricks+%7C+SQL;Building+Scalable+Data+Pipelines" alt="Typing SVG" />
 </p>
-
-</div>
 
 ---
 
