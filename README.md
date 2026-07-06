@@ -161,20 +161,6 @@ class Chiranjeet:
 
 ---
 
-# 🐍 Contribution Snake
-
-> Configure the GitHub Action once, then use:
-
-```html
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/ChiranjeetMandal/ChiranjeetMandal/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-```
-
----
-
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=ChiranjeetMandal&style=for-the-badge&color=2EA043"/>
