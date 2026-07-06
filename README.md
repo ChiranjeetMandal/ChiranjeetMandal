@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Chiranjeet%20Mandal&fontSize=50&fontColor=00F5FF&animation=fadeIn&fontAlignY=35&desc=Sr%20Data%20Engineer%20%7C%20Software%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,40:161B22,70:238636,100:2EA043&text=Chiranjeet%20Mandal&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Senior%20Data%20Engineer%20|%20Software%20Developer%20|%20AI%20Enthusiast&descAlignY=56&descSize=20"/>
 
 </div>
 
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1200&color=00F5FF&center=true&vCenter=true&width=1000&lines=%3E+Initializing...;%3E+Welcome+to+my+GitHub;%3E+Senior+Data+Engineer;%3E+Python+%7C+PySpark+%7C+Snowflake+%7C+Databricks;%3E+Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1200&color=2EA043&center=true&vCenter=true&width=900&lines=Hello%2C+I'm+Chiranjeet+Mandal;Senior+Data+Engineer;Python+%7C+PySpark+%7C+Snowflake;Azure+%7C+Databricks+%7C+SQL;Building+Scalable+Data+Pipelines" alt="Typing SVG" />
 </p>
 
 </div>
@@ -118,9 +118,8 @@ class Chiranjeet:
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ChiranjeetMandal&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=ChiranjeetMandal&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=ChiranjeetMandal&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
@@ -128,11 +127,13 @@ class Chiranjeet:
 
 # 🧠 LeetCode
 
+
 <p align="center">
 
 <img src="https://leetcard.jacoblin.cool/chiranjeet70?theme=dark&font=JetBrains+Mono&ext=contest"/>
 
 </p>
+
 
 ---
 
@@ -142,14 +143,6 @@ class Chiranjeet:
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChiranjeetMandal&theme=react-dark&hide_border=true"/>
 
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ChiranjeetMandal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
 </p>
 
 ---
@@ -179,11 +172,11 @@ class Chiranjeet:
 
 ---
 
-<div align="center">
+<p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ChiranjeetMandal&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=ChiranjeetMandal&style=for-the-badge&color=2EA043"/>
 
-</div>
+</p>
 
 ---
 
