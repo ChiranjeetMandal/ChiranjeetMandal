@@ -126,15 +126,6 @@ class Chiranjeet:
 
 ---
 
-# 💻 Languages
-
-<p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiranjeetMandal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" />
-</p>
-
----
-
 # 🧠 LeetCode
 
 <p align="center">
@@ -158,9 +149,7 @@ class Chiranjeet:
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ChiranjeetMandal&theme=algolia&no-frame=true&column=4"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=ChiranjeetMandal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
 </p>
 
 ---
